@@ -1,2 +1,2 @@
 # Rosmap
-Collections of map used in my projects
+Collection of maps used in my projects
